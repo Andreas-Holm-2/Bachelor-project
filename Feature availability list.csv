@@ -1,0 +1,669 @@
+,property_id,property_label,person_count,rank,coverage_%
+0,P31,instance of,1000,1,100.0
+1,P27,country of citizenship,1000,2,100.0
+2,P21,sex or gender,995,3,99.5
+3,P106,occupation,930,4,93.0
+4,P735,given name,907,5,90.7
+5,P569,date of birth,886,6,88.6
+6,P734,family name,828,7,82.8
+7,P19,place of birth,532,8,53.2
+8,P570,date of death,464,9,46.4
+9,P2671,Google Knowledge Graph ID,338,10,33.8
+10,P1412,"languages spoken, written or signed",332,11,33.2
+11,P214,VIAF cluster ID,272,12,27.2
+12,P641,sport,257,13,25.7
+13,P20,place of death,232,14,23.2
+14,P18,image,191,15,19.1
+15,P213,ISNI,177,16,17.7
+16,P4359,gravsted.dk ID,173,17,17.3this 
+17,P227,GND ID,172,18,17.2
+18,P69,educated at,171,19,17.1
+19,P10832,WorldCat Entities ID,170,20,17.0
+20,P373,Commons category,169,21,16.9
+21,P646,Freebase ID,168,22,16.8
+22,P8341,Dansk Biografisk Leksikon ID,162,23,16.2
+23,P166,award received,154,24,15.4
+24,P244,Library of Congress authority ID,152,25,15.2
+25,P39,position held,138,26,13.8
+26,P8313,Lex ID,133,27,13.3
+27,P345,IMDb ID,120,28,12.0
+28,P1559,name in native language,115,29,11.5
+29,P1532,country for sport,110,30,11.0
+30,P119,place of burial,105,31,10.5
+31,P3368,Prabook ID,103,32,10.3
+32,P3373,sibling,101,33,10.1
+33,P2626,Danish National Filmography person ID,100,34,10.0
+34,P22,father,99,35,9.9
+35,P3786,Danskefilm person ID,98,36,9.8
+36,P2600,Geni.com profile ID,93,37,9.3
+37,P7763,copyright status as a creator,90,38,9.0
+38,P1138,Kunstindeks Danmark Artist ID,90,39,9.0
+39,P13591,‎Yale LUX ID,88,40,8.8
+40,P269,IdRef ID,86,41,8.6
+41,P108,employer,85,42,8.5
+42,P7972,CVR person ID,83,43,8.3
+43,P54,member of sports team,83,44,8.3
+44,P40,child,83,45,8.3
+45,P4112,danskfilmogtv person ID,82,46,8.2
+46,P413,position played on team / speciality,80,47,8.0
+47,P1344,participant in,79,48,7.9
+48,P1006,Nationale Thesaurus voor Auteursnamen ID,78,49,7.8
+49,P2605,ČSFD person ID,76,50,7.6
+50,P12386,Dansk Forfatterleksikon ID,76,51,7.6
+51,P102,member of political party,75,52,7.5
+52,P26,spouse,73,53,7.3
+53,P4985,TMDB person ID,71,54,7.1
+54,P1343,described by source,68,55,6.8
+55,P7902,Deutsche Biographie (GND) ID,65,56,6.5
+56,P1015,BIBSYS ID,61,57,6.1
+57,P1207,NUKAT ID,60,58,6.0
+58,P103,native language,60,59,6.0
+59,P268,Bibliothèque nationale de France ID,58,60,5.8
+60,P12098,Kinobox person ID,57,61,5.7
+61,P1953,Discogs artist ID,54,62,5.4
+62,P13049,DDB person (GND) ID,51,63,5.1
+63,P8189,National Library of Israel J9U ID,48,64,4.8
+64,P4432,Artists of the World ID,47,65,4.7
+65,P3537,FootballDatabase.eu person ID,46,66,4.6
+66,P434,MusicBrainz artist ID,46,67,4.6
+67,P2604,Kinopoisk person ID,44,68,4.4
+68,P906,SELIBR ID,44,69,4.4
+69,P5587,Libris-URI,44,70,4.4
+70,P4381,Soccerdonna player ID,43,71,4.3
+71,P10302,Film.ru person ID,42,72,4.2
+72,P1303,instrument,42,73,4.2
+73,P2163,FAST ID,41,74,4.1
+74,P6275,copyright representative,40,75,4.0
+75,P856,official website,40,76,4.0
+76,P1477,birth name,40,77,4.0
+77,P463,member of,39,78,3.9
+78,P7939,Dansk kvindebiografisk leksikon ID,38,79,3.8
+79,P3154,Runeberg author ID,37,80,3.7
+80,P8286,Olympedia people ID,37,81,3.7
+81,P6109,Danish Football Union player ID,36,82,3.6
+82,P937,work location,36,83,3.6
+83,P2446,Transfermarkt player ID,35,84,3.5
+84,P2949,WikiTree person ID,35,85,3.5
+85,P2519,Scope.dk person ID,34,86,3.4
+86,P101,field of work,34,87,3.4
+87,P691,NL CR AUT ID,33,88,3.3
+88,P1871,CERL Thesaurus ID,32,89,3.2
+89,P3901,ADAGP artist ID,30,90,3.0
+90,P25,mother,30,91,3.0
+91,P3782,Artnet artist ID,30,92,3.0
+92,P4342,Great Norwegian Encyclopedia ID,30,93,3.0
+93,P10632,OpenSanctions ID,30,94,3.0
+94,P2003,Instagram username,30,95,3.0
+95,P3222,NE.se ID,30,96,3.0
+96,P9964,Kalliope-Verbund (GND) ID,30,97,3.0
+97,P7545,askArt person ID,30,98,3.0
+98,P2031,start of work period,30,99,3.0
+99,P2168,Swedish Film Database person ID,29,100,2.9
+100,P6379,has works in the collection,29,101,2.9
+101,P7293,National Library of Poland MMS ID,29,102,2.9
+102,P2048,height,29,103,2.9
+103,P5008,on focus list of Wikimedia project,29,104,2.9
+104,P2369,Scorebar / Soccerway person ID,28,105,2.8
+105,P648,Open Library ID,27,106,2.7
+106,P3846,DBC author ID,27,107,2.7
+107,P2013,Facebook username,27,108,2.7
+108,P1447,Sports-Reference.com Olympic athlete ID (archived),27,109,2.7
+109,P8912,Kicker.de player ID,27,110,2.7
+110,P512,academic degree,27,111,2.7
+111,P1889,different from,26,112,2.6
+112,P4663,DACS ID (former),26,113,2.6
+113,P10706,DACS ID (2022),26,114,2.6
+114,P6978,Scandinavian middle family name,26,115,2.6
+115,P6640,JRC Names ID,26,116,2.6
+116,P2843,Benezit ID,26,117,2.6
+117,P1066,student of,25,118,2.5
+118,P551,residence,25,119,2.5
+119,P5750,FBref player ID,25,120,2.5
+120,P245,Union List of Artist Names ID,25,121,2.5
+121,P650,RKDartists ID,25,122,2.5
+122,P2002,X (Twitter) username,22,123,2.2
+123,P6821,Alvin ID,22,124,2.2
+124,P14105,‎InterSportStats athlete ID,22,125,2.2
+125,P7704,Europeana entity,22,126,2.2
+126,P6777,Danskefilmstemmer.dk person ID,21,127,2.1
+127,P1472,Commons Creator page,21,128,2.1
+128,P5882,Muziekweb performer ID,19,129,1.9
+129,P2067,mass,19,130,1.9
+130,P2020,WorldFootball.net person ID (old),19,131,1.9
+131,P1266,AlloCiné person ID,18,132,1.8
+132,P7847,DigitaltMuseum ID,18,133,1.8
+133,P1248,KulturNav-ID,18,134,1.8
+134,P410,"military, police or special rank",18,135,1.8
+135,P136,genre,18,136,1.8
+136,P9662,LdiF person ID,17,137,1.7
+137,P53,family,17,138,1.7
+138,P396,SBN author ID,17,139,1.7
+139,P973,described at URL,16,140,1.6
+140,P10902,FirstCycling rider ID,16,141,1.6
+141,P6578,MutualArt artist ID,16,142,1.6
+142,P496,ORCID iD,16,143,1.6
+143,P12854,Plex person key,16,144,1.6
+144,P12302,Sofascore player ID,16,145,1.6
+145,P10207,Folketinget actor ID,15,146,1.5
+146,P3620,BWF bwfbadminton.com player ID,15,147,1.5
+147,P2729,BWF tournamentsoftware.com player ID (archived),15,148,1.5
+148,P8041,DR music artist ID,15,149,1.5
+149,P6634,LinkedIn personal profile ID,15,150,1.5
+150,P9466,Gyldendals Teaterleksikon ID,15,151,1.5
+151,P12338,FIBA.basketball people ID,15,152,1.5
+152,P2019,AllMovie person ID,14,153,1.4
+153,P11249,KBR person ID,14,154,1.4
+154,P10553,IxTheo authority ID,14,155,1.4
+155,P140,religion or worldview,13,156,1.3
+156,P8168,FactGrid item ID,13,157,1.3
+157,P1663,ProCyclingStats cyclist ID,13,158,1.3
+158,P2416,sports discipline competed in,13,159,1.3
+159,P1728,AllMusic artist ID,13,160,1.3
+160,P94,coat of arms image,12,161,1.2
+161,P1819,genealogics.org person ID,12,162,1.2
+162,P7882,ft.dk politician ID,12,163,1.2
+163,P8034,Vatican Library VcBA ID,12,164,1.2
+164,P1038,relative,12,165,1.2
+165,P13505,badmintoncn.com star ID,12,166,1.2
+166,P1409,Cycling Archives cyclist ID,12,167,1.2
+167,P2387,Elonet person ID,11,168,1.1
+168,P2435,PORT person ID,11,169,1.1
+169,P4927,Invaluable.com person ID,11,170,1.1
+170,P3762,openMLOL author ID,11,171,1.1
+171,P271,NACSIS-CAT author ID,11,172,1.1
+172,P11496,CiNii Research ID,11,173,1.1
+173,P5815,Olympics.com athlete ID,11,174,1.1
+174,P1902,Spotify artist ID,11,175,1.1
+175,P800,notable work,11,176,1.1
+176,P1280,CONOR.SI ID,10,177,1.0
+177,P3065,RERO ID (legacy),10,178,1.0
+178,P1153,Scopus author ID,10,179,1.0
+179,P8687,social media followers,10,180,1.0
+180,P4391,The-Sports.org athlete ID,10,181,1.0
+181,P3527,Eurobasket.com player ID,10,182,1.0
+182,P2032,end of work period,10,183,1.0
+183,P1960,Google Scholar author ID,10,184,1.0
+184,P2268,Musée d'Orsay artist or personality ID,10,185,1.0
+185,P802,student,10,186,1.0
+186,P1971,number of children,9,187,0.9
+187,P12458,Parsifal cluster ID,9,188,0.9
+188,P1416,affiliation,9,189,0.9
+189,P1368,National Library of Latvia ID,9,190,0.9
+190,P1442,image of grave,9,191,0.9
+191,P1185,Rodovid ID,8,192,0.8
+192,P1196,manner of death,8,193,0.8
+193,P950,National Library of Spain SpMaBN ID (BNE v1.0),8,194,0.8
+194,P13204,Wellcome Collection concept ID,8,195,0.8
+195,P3348,National Library of Greece ID,8,196,0.8
+196,P12597,museum-digital ID,8,197,0.8
+197,P5421,Trading Card Database name ID,8,198,0.8
+198,P509,cause of death,8,199,0.8
+199,P11683,Ivi person ID,8,200,0.8
+200,P5404,Rate Your Music artist ID,8,201,0.8
+201,P3957,RealGM basketball player ID,8,202,0.8
+202,P535,Find a Grave memorial ID,8,203,0.8
+203,P2574,National-Football-Teams.com player ID,8,204,0.8
+204,P5508,archINFORM person/group ID,8,205,0.8
+205,P7212,LyricsTranslate ID,8,206,0.8
+206,P1618,sport number,8,207,0.8
+207,P11020,UCI rider ID,8,208,0.8
+208,P2639,Filmportal ID,7,209,0.7
+209,P9477,Trap Danmark ID,7,210,0.7
+210,P10951,Modstand person ID,7,211,0.7
+211,P10298,Sceneweb artist ID,7,212,0.7
+212,P9918,Kallías ID,7,213,0.7
+213,P8179,Canadiana Name Authority ID,7,214,0.7
+214,P741,playing hand,7,215,0.7
+215,P1469,FIFA player ID (archived),7,216,0.7
+216,P4666,CineMagia person ID,7,217,0.7
+217,P2722,Deezer artist ID,7,218,0.7
+218,P2581,BabelNet ID,7,219,0.7
+219,P5489,artist-info artist ID,7,220,0.7
+220,P97,noble title,7,221,0.7
+221,P2909,SecondHandSongs artist ID,7,222,0.7
+222,P839,IMSLP ID,7,223,0.7
+223,P6925,Musicalics composer ID,7,224,0.7
+224,P6627,FaroeSoccer player ID,6,225,0.6
+225,P3144,elFilm person ID,6,226,0.6
+226,P4638,The Peerage person ID,6,227,0.6
+227,P2481,Elite Prospects player ID,6,228,0.6
+228,P3987,SHARE Catalogue author ID,6,229,0.6
+229,P1053,ResearcherID,6,230,0.6
+230,P6104,maintained by WikiProject,6,231,0.6
+231,P1146,World Athletics athlete ID,6,232,0.6
+232,P1553,Yandex Music artist ID,6,233,0.6
+233,P8445,Our Campaigns candidate ID,6,234,0.6
+234,P118,league or competition,6,235,0.6
+235,P3265,Myspace ID,6,236,0.6
+236,P1967,BoxRec boxer ID,6,237,0.6
+237,P7109,Acharts.co artist ID,6,238,0.6
+238,P3726,EU-Football.info player ID,6,239,0.6
+239,P241,military branch,6,240,0.6
+240,P8980,KANTO ID,6,241,0.6
+241,P3430,SNAC ARK ID,6,242,0.6
+242,P8591,Grove Music Online ID,6,243,0.6
+243,P1741,GTAA ID,5,244,0.5
+244,P9965,Musik-Sammler.de artist ID,5,245,0.5
+245,P3171,Olympic.org athlete ID (archived),5,246,0.5
+246,P9097,American Academy in Rome ID,5,247,0.5
+247,P7052,Jaxsta profile ID,5,248,0.5
+248,P6844,abART person ID,5,249,0.5
+249,P7929,Roglo person ID,5,250,0.5
+250,P2373,Genius artist ID,5,251,0.5
+251,P949,National Library of Israel ID (old),5,252,0.5
+252,P3829,Publons author ID,5,253,0.5
+253,P1830,owner of,5,254,0.5
+254,P2276,UEFA player ID,5,255,0.5
+255,P3478,Songkick artist ID,5,256,0.5
+256,P607,participated in conflict,5,257,0.5
+257,P5504,RISM ID,5,258,0.5
+258,P5019,Brockhaus Enzyklopädie online ID,5,259,0.5
+259,P9995,MYmovies person ID,4,260,0.4
+260,P4159,WeRelate person ID,4,261,0.4
+261,P8235,LiederNet composer ID,4,262,0.4
+262,P1440,FIDE player ID,4,263,0.4
+263,P2962,title of chess person,4,264,0.4
+264,P11065,Chess.com player ID,4,265,0.4
+265,P1411,nominated for,4,266,0.4
+266,P5101,Swedish Literature Bank Author ID,4,267,0.4
+267,P3365,Treccani ID,4,268,0.4
+268,P4104,Carnegie Hall agent ID,4,269,0.4
+269,P2850,Apple Music artist ID,4,270,0.4
+270,P5739,Pontificia Università della Santa Croce ID,4,271,0.4
+271,P1556,zbMATH author ID,4,272,0.4
+272,P2538,Nationalmuseum Sweden ID,4,273,0.4
+273,P428,botanist author abbreviation,4,274,0.4
+274,P586,IPNI author ID,4,275,0.4
+275,P6264,Harvard Index of Botanists ID,4,276,0.4
+276,P1285,Munzinger Sport number,4,277,0.4
+277,P552,handedness,4,278,0.4
+278,P3573,European Handball Federation player numeric ID,4,279,0.4
+279,P4081,BHL creator ID,4,280,0.4
+280,P742,pseudonym,4,281,0.4
+281,P2397,YouTube channel ID,4,282,0.4
+282,P1331,PACE member ID,4,283,0.4
+283,P3696,Sports Reference college basketball player ID,4,284,0.4
+284,P172,ethnic group,4,285,0.4
+285,P1417,Encyclopædia Britannica Online ID,4,286,0.4
+286,P10387,Databazeknih.cz author ID,4,287,0.4
+287,P5361,BNB person ID (OBSOLETE),4,288,0.4
+288,P2447,Transfermarkt manager ID,4,289,0.4
+289,P7666,Visuotinė lietuvių enciklopedija ID,4,290,0.4
+290,P4145,Athenaeum person ID,4,291,0.4
+291,P945,allegiance,4,292,0.4
+292,P1315,NLA Trove people ID,4,293,0.4
+293,P409,Libraries Australia ID,4,294,0.4
+294,P1017,Vatican Library ID (former scheme),4,295,0.4
+295,P2750,Photographers' Identities Catalog ID,4,296,0.4
+296,P12582,Oxford Reference overview ID,4,297,0.4
+297,P2038,ResearchGate profile ID,4,298,0.4
+298,P2456,DBLP author ID,4,299,0.4
+299,P1665,Chessgames.com player ID,3,300,0.3
+300,P3314,365Chess.com player ID,3,301,0.3
+301,P1087,Elo rating,3,302,0.3
+302,P13613,Enciclopedia Galega Universal ID,3,303,0.3
+303,P8750,Unione Romana Biblioteche Scientifiche ID,3,304,0.3
+304,P1005,National Library of Portugal ID,3,305,0.3
+305,P13166,PUG authority ID,3,306,0.3
+306,P3557,World Curling person ID,3,307,0.3
+307,P8947,Museo Galileo authority ID,3,308,0.3
+308,P135,movement,3,309,0.3
+309,P7300,MUBI person ID,3,310,0.3
+310,P423,shooting handedness,3,311,0.3
+311,P2601,Eurohockey.com player ID,3,312,0.3
+312,P5284,Douban movie celebrity ID,3,313,0.3
+313,P11646,Deutsche Synchronkartei person ID,3,314,0.3
+314,P12836,Douban personage ID,3,315,0.3
+315,P3427,AS.com athlete ID,3,316,0.3
+316,P3040,SoundCloud ID,3,317,0.3
+317,P264,record label,3,318,0.3
+318,P7848,Frick Art Research Library Artist File ID,3,319,0.3
+319,P9493,artist files at,3,320,0.3
+320,P1367,Art UK artist ID,3,321,0.3
+321,P4200,Christie's creator ID,3,322,0.3
+322,P3936,NFF person ID,3,323,0.3
+323,P13030,Münzkabinett ID,3,324,0.3
+324,P3604,World Triathlon triathlete ID,3,325,0.3
+325,P10400,CBDB.cz author ID,3,326,0.3
+326,P8899,Swedish National Library Arken ID,3,327,0.3
+327,P7831,NMVW ID,3,328,0.3
+328,P1317,floruit,3,329,0.3
+329,P6351,Genius artist numeric ID,3,330,0.3
+330,P10757,Personality Database profile ID,3,331,0.3
+331,P3716,social classification,3,332,0.3
+332,P6886,writing language,3,333,0.3
+333,P13951,National Virtual Library of India ID,3,334,0.3
+334,P9164,Svenska Institutet i Rom ID,3,335,0.3
+335,P7699,National Library of Lithuania ID,3,336,0.3
+336,P3520,databaseOlympics.com athlete ID (archived),3,337,0.3
+337,P10190,MTB Data rider ID,3,338,0.3
+338,P3047,playmakerstats.com player ID,3,339,0.3
+339,P1541,CQ Ranking male cyclist ID,3,340,0.3
+340,P2193,Soccerbase player ID,3,341,0.3
+341,P6188,BDFA player ID,3,342,0.3
+342,P6087,coach of sports team,3,343,0.3
+343,P6944,Bionomia ID,3,344,0.3
+344,P185,doctoral student,3,345,0.3
+345,P1284,Munzinger person ID,3,346,0.3
+346,P11182,UOM ID,3,347,0.3
+347,P6802,related image,3,348,0.3
+348,P1449,nickname,3,349,0.3
+349,P4457,DAHR artist ID,3,350,0.3
+350,P1828,IPI name number,3,351,0.3
+351,P14178,Obálky knih ID,3,352,0.3
+352,P7305,Online PWN Encyclopedia ID,3,353,0.3
+353,P485,archives at,3,354,0.3
+354,P1695,NLP ID,3,355,0.3
+355,P1047,Catholic Hierarchy person ID,2,356,0.2
+356,P3315,ChessTempo.com player ID,2,357,0.2
+357,P2562,married name,2,358,0.2
+358,P1296,Gran Enciclopèdia Catalana ID (former scheme),2,359,0.2
+359,P12385,Gran Enciclopèdia Catalana ID,2,360,0.2
+360,P6849,DR topic ID,2,361,0.2
+361,P2732,Persée author ID,2,362,0.2
+362,P5731,Angelicum ID,2,363,0.2
+363,P1607,Dialnet author ID,2,364,0.2
+364,P2381,Academic Tree ID,2,365,0.2
+365,P3556,CurlingZone player ID,2,366,0.2
+366,P9171,RILM ID,2,367,0.2
+367,P2868,subject has role,2,368,0.2
+368,P451,unmarried partner,2,369,0.2
+369,P1875,represented by,2,370,0.2
+370,P8585,FIPRESCI person ID,2,371,0.2
+371,P11245,YouTube handle,2,372,0.2
+372,P4332,Deutsche Synchronkartei actor ID,2,373,0.2
+373,P4574,Norwegian historical register of persons ID,2,374,0.2
+374,P2042,Artsy artist ID,2,375,0.2
+375,P2987,TaekwondoData person ID,2,376,0.2
+376,P9463,MovieMeter person ID,2,377,0.2
+377,P10266,AdoroCinema person ID,2,378,0.2
+378,P2174,Museum of Modern Art artist ID,2,379,0.2
+379,P349,NDL Authority ID,2,380,0.2
+380,P10227,National Library of Ireland ID,2,381,0.2
+381,P3538,Fussballdaten.de person ID,2,382,0.2
+382,P6178,Dimensions author ID,2,383,0.2
+383,P7753,Projekt Gutenberg-DE author ID,2,384,0.2
+384,P6868,Hoopla artist ID,2,385,0.2
+385,P1711,British Museum person or institution ID,2,386,0.2
+386,P9495,National Historical Museums of Sweden ID,2,387,0.2
+387,P9328,Universal Music France artist ID,2,388,0.2
+388,P11616,World Sailing sailor ID (archived),2,389,0.2
+389,P1580,University of Barcelona authority ID (former scheme),2,390,0.2
+390,P9984,CANTIC ID,2,391,0.2
+391,P11686,University of Barcelona authority ID,2,392,0.2
+392,P7578,DUC ID,2,393,0.2
+393,P10608,FID performing arts ID,2,394,0.2
+394,P3056,TCM Movie Database person ID,2,395,0.2
+395,P1258,Rotten Tomatoes ID,2,396,0.2
+396,P3845,TV Guide person ID (former scheme),2,397,0.2
+397,P358,discography,2,398,0.2
+398,P1441,present in work,2,399,0.2
+399,P1543,monogram,2,400,0.2
+400,P511,honorific prefix,2,401,0.2
+401,P1636,date of baptism,2,402,0.2
+402,P8309,Yle topic ID,2,403,0.2
+403,P3965,Bridgeman artist ID,2,404,0.2
+404,P5340,American Film Institute person ID,2,405,0.2
+405,P9081,SEARCH on line catalogue ID,2,406,0.2
+406,P5357,Encyclopedia of Science Fiction ID,2,407,0.2
+407,P8971,Cinémathèque québécoise person ID,2,408,0.2
+408,P9707,GCD creator ID,2,409,0.2
+409,P2602,HockeyDB player ID,2,410,0.2
+410,P6300,Hymnary author ID,2,411,0.2
+411,P935,Commons gallery,2,412,0.2
+412,P910,topic's main category,2,413,0.2
+413,P3672,IOF athlete ID,2,414,0.2
+414,P4542,World of O athlete ID,2,415,0.2
+415,P7444,Rijksmuseum Research Library authority ID,2,416,0.2
+416,P12483,PMB – Personen der Moderne Basis person ID,2,417,0.2
+417,P5370,Entomologists of the World ID,2,418,0.2
+418,P8914,ZOBODAT person ID,2,419,0.2
+419,P12606,Barry Hugman's Footballers player ID,2,420,0.2
+420,P1816,National Portrait Gallery (London) person ID,2,421,0.2
+421,P2798,Loop ID,2,422,0.2
+422,P7944,DoME artist ID,2,423,0.2
+423,P412,voice type,2,424,0.2
+424,P5080,Norsk biografisk leksikon ID,2,425,0.2
+425,P2418,Structurae person ID,2,426,0.2
+426,P184,doctoral advisor,2,427,0.2
+427,P11892,Threads username,2,428,0.2
+428,P2963,Goodreads author ID,2,429,0.2
+429,P8021,Kooora/Goalzz player ID,2,430,0.2
+430,P5034,National Library of Korea ID,2,431,0.2
+431,P1327,partner in business or sport,2,432,0.2
+432,P2924,Great Russian Encyclopedia Online ID (2017),2,433,0.2
+433,P4602,date of burial or cremation,2,434,0.2
+434,P8334,MuseScore artist ID,2,435,0.2
+435,P8589,Carl-Maria-von-Weber-Gesamtausgabe ID,2,436,0.2
+436,P6479,IEEE Xplore author ID,2,437,0.2
+437,P14334,‎fotbolltransfers.com ID,2,438,0.2
+438,P9441,Wissens-Aggregator Mittelalter und Frühe Neuzeit ID,1,439,0.1
+439,P13627,Niedersächsische Personen ID,1,440,0.1
+440,P2699,URL,1,441,0.1
+441,P3940,OlimpBase Chess Olympiad player ID,1,442,0.1
+442,P4223,Treccani's Enciclopedia Italiana ID,1,443,0.1
+443,P8122,DLL Catalog author ID,1,444,0.1
+444,P7039,National Library of Iceland ID,1,445,0.1
+445,P8870,Hyperion Records person ID,1,446,0.1
+446,P1617,BBC Things ID,1,447,0.1
+447,P3218,Auñamendi ID,1,448,0.1
+448,P9179,Biblioteca Iglesia Nacional Española en Roma ID,1,449,0.1
+449,P7550,Paralympic.org sportsperson ID,1,450,0.1
+450,P3882,Tilastopaja female athlete ID,1,451,0.1
+451,P6734,Archaeology Data Service person ID,1,452,0.1
+452,P3942,UCI BMX Supercross World Cup Results rider ID,1,453,0.1
+453,P2697,ESPNcricinfo.com player ID,1,454,0.1
+454,P2698,CricketArchive player ID,1,455,0.1
+455,P2818,Sherdog fighter ID,1,456,0.1
+456,P9722,UFC athlete ID,1,457,0.1
+457,P9728,Tapology fighter ID,1,458,0.1
+458,P7466,Edvard Munch's correspondence person ID,1,459,0.1
+459,P3388,LittleSis people ID,1,460,0.1
+460,P3919,contributed to creative work,1,461,0.1
+461,P10449,trained by,1,462,0.1
+462,P1347,military casualty classification,1,463,0.1
+463,P1142,political ideology,1,464,0.1
+464,P3136,elCinema person ID,1,465,0.1
+465,P4319,Elite Prospects staff ID,1,466,0.1
+466,P5297,Companies House officer ID,1,467,0.1
+467,P2350,SpeedSkatingBase.eu ID (archived),1,468,0.1
+468,P3695,SpeedSkatingStats speed skater ID,1,469,0.1
+469,P3694,SpeedSkatingNews.info speed skater ID,1,470,0.1
+470,P4576,Tidal artist ID,1,471,0.1
+471,P7085,TikTok username,1,472,0.1
+472,P6276,Amazon Music artist ID,1,473,0.1
+473,P6517,WhoSampled artist ID,1,474,0.1
+474,P3192,Last.fm ID,1,475,0.1
+475,P8415,Maniadb artist ID,1,476,0.1
+476,P5917,Shazam artist ID,1,477,0.1
+477,P3536,euroleague.net player ID,1,478,0.1
+478,P7084,related category,1,479,0.1
+479,P1415,Oxford Dictionary of National Biography ID,1,480,0.1
+480,P7430,Dictionary of Sculptors in Britain ID,1,481,0.1
+481,P1050,medical condition,1,482,0.1
+482,P4023,German Football Association person ID,1,483,0.1
+483,P8826,edition humboldt digital ID,1,484,0.1
+484,P640,Léonore ID,1,485,0.1
+485,P11152,Léonore Web ID,1,486,0.1
+486,P7360,UEFA coach ID (archived),1,487,0.1
+487,P2533,WomenWriters ID,1,488,0.1
+488,P8332,Dansk litteraturs historie ID,1,489,0.1
+489,P4657,The Numbers person ID,1,490,0.1
+490,P5247,Giant Bomb ID (former scheme),1,491,0.1
+491,P8125,Fandango person ID,1,492,0.1
+492,P2632,place of detention,1,493,0.1
+493,P4779,MYmovies actor ID (former scheme),1,494,0.1
+494,P9152,CollectieGelderland creator ID,1,495,0.1
+495,P10069,Tabakalera ID,1,496,0.1
+496,P2778,IAT triathlete ID,1,497,0.1
+497,P3150,birthday,1,498,0.1
+498,P8385,IDU person ID,1,499,0.1
+499,P7498,Women Film Pioneers ID,1,500,0.1
+500,P12076,Nordic Women in Film-ID,1,501,0.1
+501,P7837,Nederlands Fotomuseum photographer ID,1,502,0.1
+502,P1186,MEP directory ID,1,503,0.1
+503,P6232,Danske Taler speaker ID,1,504,0.1
+504,P4033,Mastodon address,1,505,0.1
+505,P1019,web feed URL,1,506,0.1
+506,P175,performer,1,507,0.1
+507,P725,voice actor,1,508,0.1
+508,P4584,first appearance,1,509,0.1
+509,P1080,from narrative universe,1,510,0.1
+510,P5800,narrative role,1,511,0.1
+511,P8839,hair style / hair length,1,512,0.1
+512,P6231,BDELIS ID,1,513,0.1
+513,P1938,Project Gutenberg author ID,1,514,0.1
+514,P8795,Diamond Catalog ID for persons and organisations,1,515,0.1
+515,P8851,CONOR.SR ID,1,516,0.1
+516,P10141,Academy of Athens authority ID,1,517,0.1
+517,P11156,MMB ID,1,518,0.1
+518,P4012,Semantic Scholar author ID,1,519,0.1
+519,P1233,ISFDB author ID,1,520,0.1
+520,P13437,Chtyvo author ID,1,521,0.1
+521,P3699,Transfermarkt referee ID,1,522,0.1
+522,P13766,Ophardt Team Sportevent person ID,1,523,0.1
+523,P4481,INDUCKS creator ID,1,524,0.1
+524,P1392,ComicBookDB Creator ID,1,525,0.1
+525,P5491,BD Gest' author ID,1,526,0.1
+526,P13724,‎Cyclocross24 rider ID,1,527,0.1
+527,P11963,Global Sports Archive person ID,1,528,0.1
+528,P1596,penalty,1,529,0.1
+529,P9044,GEPRIS Historisch person ID,1,530,0.1
+530,P8214,curriculum vitae URL,1,531,0.1
+531,P2607,BookBrainz author ID,1,532,0.1
+532,P10299,Leopoldina member ID (new),1,533,0.1
+533,P9001,Literary Encyclopedia ID,1,534,0.1
+534,P12404,Kalliope.org author ID,1,535,0.1
+535,P12614,az.lib.ru author ID,1,536,0.1
+536,P8094,GeneaStar person ID,1,537,0.1
+537,P2398,MLS player ID,1,538,0.1
+538,P2180,Kansallisbiografia ID,1,539,0.1
+539,P4629,Online Books Page author ID,1,540,0.1
+540,P2640,Swimrankings.net swimmer ID,1,541,0.1
+541,P12361,Bluesky handle,1,542,0.1
+542,P5298,Webb-site person ID,1,543,0.1
+543,P12749,SNARC ID,1,544,0.1
+544,P157,killed by,1,545,0.1
+545,P8013,Trakt.tv ID,1,546,0.1
+546,P865,BMLO ID,1,547,0.1
+547,P1977,Les Archives du spectacle person ID,1,548,0.1
+548,P3435,VGMdb artist ID,1,549,0.1
+549,P7303,Grammy Awards artist ID,1,550,0.1
+550,P10780,Radio France person ID,1,551,0.1
+551,P2428,RePEc Short-ID,1,552,0.1
+552,P4208,Billboard artist ID,1,553,0.1
+553,P2774,FIS freestyle skier ID,1,554,0.1
+554,P3172,World Bridge Federation person ID,1,555,0.1
+555,P5375,BIU Santé person ID,1,556,0.1
+556,P9738,IFPNI author ID,1,557,0.1
+557,P11146,collection items at,1,558,0.1
+558,P14073,TheaterEncyclopedie ID,1,559,0.1
+559,P611,religious order,1,560,0.1
+560,P6091,MGG Online ID,1,561,0.1
+561,P6081,RIA Novosti reference,1,562,0.1
+562,P598,commander of (DEPRECATED),1,563,0.1
+563,P7112,CUP2002.RU person ID,1,564,0.1
+564,P3283,Bandcamp profile ID,1,565,0.1
+565,P9509,Mixcloud ID,1,566,0.1
+566,P7050,Album of the Year artist ID,1,567,0.1
+567,P5436,number of viewers/listeners,1,568,0.1
+568,P2041,National Gallery of Victoria artist ID,1,569,0.1
+569,P1980,PolSys ID,1,570,0.1
+570,P3074,Grace's Guide ID,1,571,0.1
+571,P1290,godparent,1,572,0.1
+572,P3448,stepparent,1,573,0.1
+573,P1884,hair color,1,574,0.1
+574,P3791,Art Renewal Center artist ID,1,575,0.1
+575,P549,Mathematics Genealogy Project ID,1,576,0.1
+576,P4955,MR Author ID,1,577,0.1
+577,P8172,Sejm-Wielki.pl profile ID,1,578,0.1
+578,P1989,Encyclopaedia Metallum artist ID,1,579,0.1
+579,P6878,Erik Amburger database ID,1,580,0.1
+580,P9823,Volleybox ID,1,581,0.1
+581,P3925,Track and Field Statistics male athlete ID,1,582,0.1
+582,P8740,The Boardr profile ID,1,583,0.1
+583,P8006,footedness,1,584,0.1
+584,P4893,X Games athlete ID number (archived),1,585,0.1
+585,P8634,SPoT skater ID (former scheme),1,586,0.1
+586,P7400,LibraryThing author ID,1,587,0.1
+587,P528,catalog code,1,588,0.1
+588,P8406,Grove Art Online ID,1,589,0.1
+589,P1299,depicted by,1,590,0.1
+590,P10925,Galleria Recta artist ID,1,591,0.1
+591,P10882,Met Constituent ID,1,592,0.1
+592,P1882,Web Gallery of Art artist ID,1,593,0.1
+593,P12822,Norwegian National Museum producer ID,1,594,0.1
+594,P5035,Lambiek Comiclopedia artist ID,1,595,0.1
+595,P7036,TuttoCalciatori.net player ID,1,596,0.1
+596,P4192,Ligue Nationale de Handball player ID,1,597,0.1
+597,P2383,CTHS person ID,1,598,0.1
+598,P6150,Academy Awards Database nominee ID,1,599,0.1
+599,P3389,Royal Swedish Academy of Letters member ID,1,600,0.1
+600,P13906,NLAI ID,1,601,0.1
+601,P5715,Academia.edu profile URL,1,602,0.1
+602,P2191,Vegetti Catalog of Fantastic Literature NILF ID,1,603,0.1
+603,P8879,Kinorium person ID,1,604,0.1
+604,P6083,Cineuropa person ID,1,605,0.1
+605,P5033,Filmweb.pl person ID,1,606,0.1
+606,P6119,Letterboxd actor ID,1,607,0.1
+607,P1263,Notable Names Database ID,1,608,0.1
+608,P4489,Hellenic Olympic Committee athlete ID (archived),1,609,0.1
+609,P6404,Treccani's Dizionario di Storia ID,1,610,0.1
+610,P2650,interested in,1,611,0.1
+611,P6706,De Agostini ID,1,612,0.1
+612,P9231,Archivo Linz de la Transición Española ID,1,613,0.1
+613,P9482,Catalogue of the General State Archives ID,1,614,0.1
+614,P8793,Quirinale ID,1,615,0.1
+615,P361,part of,1,616,0.1
+616,P10297,Google Arts & Culture entity ID,1,617,0.1
+617,P11835,Numista ruling authority ID,1,618,0.1
+618,P12086,WikiKids ID,1,619,0.1
+619,P8885,Namuwiki ID,1,620,0.1
+620,P8669,Encyclopaedia Beliana ID,1,621,0.1
+621,P14375,Bundestag Group Minutes ID,1,622,0.1
+622,P3654,Chess.com member ID,1,623,0.1
+623,P9686,Classical Archives composer ID,1,624,0.1
+624,P13818,AGORHA UUID,1,625,0.1
+625,P2018,Teuchos ID,1,626,0.1
+626,P902,HDS ID,1,627,0.1
+627,P1321,municipal affiliation of a Swiss national,1,628,0.1
+628,P14191,‎Bach digital person ID,1,629,0.1
+629,P460,said to be the same as,1,630,0.1
+630,P10937,IRIS UNIBOCCONI author ID,1,631,0.1
+631,P3316,ICCF player ID,1,632,0.1
+632,P8590,Jewish Encyclopedia ID,1,633,0.1
+633,P13183,JudaicaLink person (GND) ID,1,634,0.1
+634,P1670,Canadiana Authorities ID (former scheme),1,635,0.1
+635,P4862,Amazon author ID,1,636,0.1
+636,P6872,has written for,1,637,0.1
+637,P2799,BVMC person ID,1,638,0.1
+638,P10881,Kieler Gelehrtenverzeichnis ID,1,639,0.1
+639,P3360,Nobel Prize People Nomination ID,1,640,0.1
+640,P1399,convicted of,1,641,0.1
+641,P1802,Early Modern Letters Online person ID,1,642,0.1
+642,P6722,FemBio ID,1,643,0.1
+643,P737,influenced by,1,644,0.1
+644,P4963,Svenskt kvinnobiografiskt lexikon ID,1,645,0.1
+645,P9037,BHCL UUID,1,646,0.1
+646,P1260,Swedish Open Cultural Heritage URI,1,647,0.1
+647,P7194,AZLyrics.com artist ID,1,648,0.1
+648,P4438,"BFI Films, TV and people ID",1,649,0.1
+649,P10149,Original Esperanto Literature author ID,1,650,0.1
+650,P3417,Quora topic ID,1,651,0.1
+651,P3665,L'Équipe football player ID,1,652,0.1
+652,P3655,BDFutbol player ID,1,653,0.1
+653,P3681,ESPN FC player ID,1,654,0.1
+654,P5740,So Foot Player ID,1,655,0.1
+655,P9368,CNA topic ID,1,656,0.1
+656,P11194,Famous Birthdays ID,1,657,0.1
+657,P12539,Premier League player ID (archived),1,658,0.1
+658,P12551,11v11 player ID,1,659,0.1
+659,P10916,Süddeutsche Zeitung topic ID,1,660,0.1
+660,P10234,Der Spiegel topic ID,1,661,0.1
+661,P12567,StatMuse Premier League player ID,1,662,0.1
+662,P12608,Statbunker player ID,1,663,0.1
+663,P5570,NooSFere author ID,1,664,0.1
+664,P11866,NBC Olympics athlete ID,1,665,0.1
+665,P13929,‎ECHL.com player ID,1,666,0.1
+666,P10231,WikiStrinda article ID,1,667,0.1
+667,P6520,Lokalhistoriewiki.no article ID,1,668,0.1
